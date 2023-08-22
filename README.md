@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-reyad&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-reyad)](https://git.io/streak-stats)
 
 ##### 🤝🏻 Connect with Me
 
